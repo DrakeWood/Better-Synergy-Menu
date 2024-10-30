@@ -1,0 +1,5 @@
+{
+  "setup": "main.js",
+  "icon": "icon.png",
+  "namespace": "better_summoning_menu"
+}
