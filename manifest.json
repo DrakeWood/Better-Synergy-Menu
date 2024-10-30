@@ -1,0 +1,7 @@
+{
+  "name": "Better Synergy Menu",
+  "version": "1.0.1",
+  "setup": "main.mjs",
+  "icon": "icon.png",
+  "namespace": "better_synergy_menu"
+}

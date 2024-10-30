@@ -1,2 +1,2 @@
-# Better Summoning Menu
+# Better Synergy Menu
  Update to https://mod.io/g/melvoridle/m/better-summoning-menu
