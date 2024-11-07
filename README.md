@@ -13,8 +13,7 @@ This mod refines the Summoning Synergy search function in Melvor Idle. When you 
 
 ## Installation
 
-1. Visit the [Mod.io page](https://mod.io/g/melvoridle/m/better-synergy-menu) for Better Synergy Menu.
-2. Follow the installation instructions on the page.
+Subscribe to the mod at the [Mod.io page](https://mod.io/g/melvoridle/m/better-synergy-menu) for a Better Synergy Menu.
 
 ## Compatibility
 
